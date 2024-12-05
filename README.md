@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on kivymd experts...
 - 📫 reach me by bot434666@gmail.com...
 - 😄 "NEVER LOSE HOLY CURIOSITY"
-- ⚡ connect me through my PUBGM|BGMI by searching uid : 55692109772
 
 <!---
 bot80-alt/bot80-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
