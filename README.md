@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Madesh Vaithya<br>👀 I’m an App Developer Flutter | React Native<br>🌱 I’m currently learning Kotlin, AI frameworks...<br>💞️ I’m looking to collaborate on AI experts...<br>📫 reach me by bot434666@gmail.com...<br>😄 "NEVER LOSE HOLY CURIOSITY 
+👋 Hi, I’m @Madesh Vaithya<br>👀 I’m an App Developer Flutter | React Native<br>🌱 I’m currently learning Kotlin, AI frameworks...<br>💞️ I’m looking to collaborate on AI experts...<br>📫 reach me by madesh.vaithya.dev@gmail.com...<br>😄 "NEVER LOSE HOLY CURIOSITY 
 
 
 ## 🌐 Socials:
